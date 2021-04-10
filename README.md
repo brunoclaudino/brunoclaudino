@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p> My name is Bruno and I am a bachelor's degree stundent of Computer Engineering at the State University of Feira de Santana (UEFS), Bahia state, Brazil.
+I participate in the Applied Digital Entertainment Laboratory (LENDA) and I recieve a Scientific Initiation Scholarship for the project Cellgine, that I am currently developing.
+In this page you will find some of my degree's works and others trys to help someone. <img align="center" height="40" width="35" src="https://tenor.com/bec8f.gif"></p>
+
 <!--
 **brunoclaudino/brunoclaudino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+S
