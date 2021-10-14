@@ -19,7 +19,7 @@ In this page you will find some of my degree's works and others attempts to help
   &bull;
 <a href="https://www.instagram.com/brclaudino/" target="blank"><img align="center" src="https://github.com/brunoclaudino/brunoclaudino/blob/818f803865f4718f030cdeb253fb702212da594e/icons/instagram.svg" height="30" width="40" /></a>
   &bull;
-<a href="mailto:brunoclaudinomatias@gmail.com" target="blank"><img align="center" src="https://github.com/brunoclaudino/brunoclaudino/blob/d5913c2b2212387f5e7d2e52b968d0bc7709741a/icons/gmail.svg" alt="victoria.oliveiragomes@gmail.com" height="30" width="40" /></a>
+<a href="mailto:brunoclaudinomatias@gmail.com" target="blank"><img align="center" src="https://github.com/brunoclaudino/brunoclaudino/blob/d5913c2b2212387f5e7d2e52b968d0bc7709741a/icons/gmail.svg" alt="brunoclaudinomatias@gmail.com" height="30" width="40" /></a>
 </p>
 
 <!--
