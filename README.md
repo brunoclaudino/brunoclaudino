@@ -7,7 +7,7 @@ In this page you will find some of my degree's works and others attempts to help
 ## Projects That I am Currently Working on <img align="center" height="42" width="42" src="https://media.tenor.com/images/20be3abd731fe52f8b74480e6b404053/tenor.gif">
 
 - <p>Cellgine: A Engine to help the development of citologic simulations for citology teaching in highschool.</p>
-- <p>Windowing Design of Adaptative Filters using LMS and RLS algorithms.</p>
+- <p>Design of Adaptative Filters using LMS and RLS algorithms.</p>
 - <p>A bank API using Java Spring Boot, MySQL database, and AWS resources.</p>
 
 ## What I Normaly use
