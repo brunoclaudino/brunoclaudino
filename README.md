@@ -1,14 +1,15 @@
 ## Hi There <img align="center" height="48" width="42" src="https://media.tenor.com/images/9c161996e5a48f365999e2ba649cedc7/tenor.gif">
 
-<p align="justify"> My name is Bruno and I am a bachelor's degree student of Computer Engineering at the State University of Feira de Santana (UEFS), Bahia state, Brazil.
-I am a member of the Applied Digital Entertainment Laboratory (LEnDA) where I recieve a Scientific Initiation Scholarship for 2 consecutive years.
+<p align="justify"> My name is Bruno and I am a Computer Engineer from the State University of Feira de Santana (UEFS), Bahia state, Brazil.
+I am a member of the Applied Digital Entertainment Laboratory (LEnDA) since graduation, where I recieve a Scientific Initiation Scholarship for 2 consecutive years.
 In this page you will find some of my degree's works and others attempts to help someone. <br><img align="center" height="48" width="42" src="https://media.tenor.com/images/d66b0a462130cfd0bf63f03f77e41ac4/tenor.gif"></p>
 
 ## Projects That I am Currently Working on <img align="center" height="42" width="42" src="https://media.tenor.com/images/20be3abd731fe52f8b74480e6b404053/tenor.gif">
 
-- <p>Cellgine: A Engine to help the development of citologic simulations for citology teaching in highschool.</p>
+- <p>Fulltime Web Developer at Lumis</p>
 - <p>Design of Adaptative Filters using LMS and RLS algorithms.</p>
-- <p>A bank API using Java Spring Boot, MySQL database, and AWS resources.</p>
+- <p>APIs using Java Spring Boot, MySQL database, and AWS resources.</p>
+- <p>.NET echosystem Development </p>
 
 ## What I Normaly use
 <a href="https://github.com/brunoclaudino">
