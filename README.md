@@ -10,6 +10,7 @@ In this page you will find some of my degree's works and others attempts to help
 - <p>Design of Adaptative Filters using LMS and RLS algorithms.</p>
 - <p>APIs using Java Spring Boot, MySQL database, and AWS resources.</p>
 - <p>.NET echosystem Development </p>
+- <p>API using .Net 6 with EntityFramework</p>
 
 ## What I Normaly use
 <a href="https://github.com/brunoclaudino">
