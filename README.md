@@ -6,8 +6,8 @@ In this page you will find some of my degree's works and others attempts to help
 
 ## Projects That I am Currently Working on <img align="center" height="42" width="42" src="https://media.tenor.com/images/20be3abd731fe52f8b74480e6b404053/tenor.gif">
 
-- <p>Fulltime Web Developer at Lumis</p>
-- <p>Design of Adaptative Filters using LMS and RLS algorithms.</p>
+- <p>Spec-driven Development - EPIC Framework</p>
+- <p>Parallel Computing using CUDA algorithms.</p>
 - <p>APIs using Java Spring Boot, MySQL database, and AWS resources.</p>
 - <p>.NET echosystem Development </p>
 - <p>API using .Net 6 with EntityFramework</p>
